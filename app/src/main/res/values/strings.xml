@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KFandomHub</string>
+    <string name="member_photo">Member Photo</string>
+    <string name="group_logo">Group Logo</string>
+    <string name="post_image">Post Image</string>
+    <string name="add_post">Add Post</string>
+    <string name="caption_hint">Write a caption&#8230;</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="post_button">Post</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_feed">Feed</string>
+    <string name="menu_add">Add</string>
+    <string name="anonymous">anonymous</string>
+
+    <!-- Profile Strings -->
+    <string name="user_profile">User Profile</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="username">Username</string>
+    <string name="prefix_at">\@</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="your_name">Your Name</string>
+    <string name="anonymous_hint">If left empty, you will post as Anonymous</string>
+
+    <!-- Add Post Strings -->
+    <string name="post_title">Post Title</string>
+    <string name="detail">Detail</string>
+</resources>

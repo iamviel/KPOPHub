@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme for Night mode. -->
+    <style name="Theme.KFandomHub" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- We keep a dark version for night mode, but using the dark variants of the new palette if possible -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor">#1A1A2E</item> <!-- Using Text Primary as dark background for status bar -->
+        <item name="android:windowBackground">#1A1A2E</item>
+    </style>
+</resources>

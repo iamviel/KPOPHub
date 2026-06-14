@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#7B61FF</color>
+    <color name="primary_variant">#5B44D6</color>
+    <color name="secondary">#F5A3C7</color>
+    <color name="background">#FAF8FF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="border">#E4E1FF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B6B8D</color>
+    <color name="text_muted">#9A96B8</color>
+    <color name="field_background">#F7F5FF</color>
+    <color name="nav_inactive">#AAA1E9</color>
+    <color name="soft_shadow">#1A7B61FF</color>
+
+    <!-- Pastel Colors for Fandom Cards -->
+    <color name="pastel_pink">#FFF0F5</color>
+    <color name="pastel_purple">#F3E5F5</color>
+    <color name="pastel_blue">#E3F2FD</color>
+    <color name="pastel_grey">#F5F5F5</color>
+    <color name="pastel_red">#FFEBEE</color>
+    <color name="pastel_cyan">#E0F7FA</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#7B61FF</color>
+    <color name="gradient_end">#F5A3C7</color>
+    <color name="gradient_mid">#9B6CFF</color>
+
+    <!-- Glassmorphism Colors -->
+    <color name="glass_bg">#4DFFFFFF</color>
+    <color name="glass_stroke">#66FFFFFF</color>
+</resources>
